@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathyusha-student
-- 👀 I’m interested in .working in the field of Datascience..
-- 🌱 I’m currently learning .Datascience ..
+- 👀 I’m interested in .working in the field of Embedded..
+- 🌱 I’m currently working .Bootloader Developer ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .mail me..
 
